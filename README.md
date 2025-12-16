@@ -1,1 +1,1 @@
-https://github.com/Kalante271/ono-tebe-nado-ad
+https://github.com/Kalante271/posmotri-v-okno-ad
